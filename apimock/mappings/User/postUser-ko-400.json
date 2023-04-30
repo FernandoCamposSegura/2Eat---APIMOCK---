@@ -1,0 +1,13 @@
+{
+    "request": {
+      "method": "POST",
+      "url": "/users400"
+    },
+    "response": {
+      "status": 400,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFileName": "User/postUser-ko-400.json"
+    }
+}

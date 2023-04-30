@@ -1,0 +1,13 @@
+{
+    "request": {
+      "method": "PUT",
+      "url": "/comments/3"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFileName": "Comment/updateComment-ok-2.json"
+    }
+}

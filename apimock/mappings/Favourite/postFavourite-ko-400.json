@@ -1,0 +1,13 @@
+{
+    "request": {
+      "method": "POST",
+      "url": "/favourites400"
+    },
+    "response": {
+      "status": 400,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFileName": "Favourite/postFavourite-ko-400.json"
+    }
+}

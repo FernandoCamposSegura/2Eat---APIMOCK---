@@ -1,0 +1,12 @@
+[
+    {
+      "id":1,
+      "user_id":1,
+      "establishment_id":190
+    },
+    {
+        "id":2,
+        "user_id":1,
+        "establishment_id":191
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "priority": 1,
+    "request": {
+      "method": "DELETE",
+      "url": "/comments/12"
+    },
+    "response": {
+      "status": 404,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFileName": "Comment/deleteComment-ko-404.json"
+    }
+}

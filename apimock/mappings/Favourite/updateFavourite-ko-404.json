@@ -1,0 +1,13 @@
+{
+    "request": {
+      "method": "PUT",
+      "urlPattern": "/favourites/359"
+    },
+    "response": {
+      "status": 404,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFileName": "Favourite/updateFavourite-ko-404.json"
+    }
+}

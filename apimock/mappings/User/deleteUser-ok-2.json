@@ -1,0 +1,13 @@
+{
+    "priority": 2,
+    "request": {
+      "method": "DELETE",
+      "url": "/users/2"
+    },
+    "response": {
+      "status": 204,
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+}

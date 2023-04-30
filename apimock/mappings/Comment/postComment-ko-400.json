@@ -1,0 +1,13 @@
+{
+    "request": {
+      "method": "POST",
+      "url": "/comments400"
+    },
+    "response": {
+      "status": 400,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFileName": "Comment/postComment-ko-400.json"
+    }
+}

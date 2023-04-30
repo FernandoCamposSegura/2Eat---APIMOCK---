@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/establishments500"
+  },
+  "response": {
+    "status": 500,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "generic-500.json"
+  }
+}

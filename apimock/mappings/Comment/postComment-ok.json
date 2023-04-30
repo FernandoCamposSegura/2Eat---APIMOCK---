@@ -1,0 +1,13 @@
+{
+    "request": {
+      "method": "POST",
+      "url": "/comments"
+    },
+    "response": {
+      "status": 201,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFileName": "Comment/postComment-ok.json"
+    }
+}

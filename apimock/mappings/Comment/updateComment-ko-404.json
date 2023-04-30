@@ -1,0 +1,13 @@
+{
+    "request": {
+      "method": "PUT",
+      "urlPattern": "/comments/5"
+    },
+    "response": {
+      "status": 404,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFileName": "Comment/updateComment-ko-404.json"
+    }
+ }

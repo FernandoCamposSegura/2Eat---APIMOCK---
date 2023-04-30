@@ -1,0 +1,18 @@
+[
+    {
+      "id":3,
+      "rating":4.5,
+      "message":"Todo muy bueno, repetiría",
+      "datPost":"2023-05-05",
+      "user_id":10,
+      "establishment_id":190 
+    },
+    {
+        "id":4,
+        "rating":2.5,
+        "message":"Deberían darse más prisa a la hora de servir",
+        "datPost":"2023-04-21",
+        "user_id":6,
+        "establishment_id":191
+    }
+]

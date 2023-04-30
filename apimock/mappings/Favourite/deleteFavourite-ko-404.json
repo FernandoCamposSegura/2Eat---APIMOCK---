@@ -1,0 +1,14 @@
+{
+    "priority": 1,
+    "request": {
+      "method": "DELETE",
+      "url": "/favourites/192"
+    },
+    "response": {
+      "status": 404,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFileName": "Favourite/deleteFavourite-ko-404.json"
+    }
+}

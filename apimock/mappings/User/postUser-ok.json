@@ -1,0 +1,13 @@
+{
+    "request": {
+      "method": "POST",
+      "url": "/users"
+    },
+    "response": {
+      "status": 400,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFileName": "User/postUser-ok.json"
+    }
+}

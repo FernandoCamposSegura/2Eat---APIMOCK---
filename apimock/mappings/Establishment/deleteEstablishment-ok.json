@@ -1,0 +1,13 @@
+{
+    "priority": 2,
+    "request": {
+      "method": "DELETE",
+      "url": "/establishments/190"
+    },
+    "response": {
+      "status": 204,
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+}

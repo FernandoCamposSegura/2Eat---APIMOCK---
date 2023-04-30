@@ -1,0 +1,13 @@
+{
+    "request": {
+      "method": "POST",
+      "url": "/favourites"
+    },
+    "response": {
+      "status": 201,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFileName": "Favourite/postFavourite-ok.json"
+    }
+}

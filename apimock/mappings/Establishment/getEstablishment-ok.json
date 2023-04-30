@@ -1,0 +1,13 @@
+{
+    "request": {
+      "method": "GET",
+      "url": "/establishments/190"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFileName": "Establishment/getEstablishment-ok.json"
+    }
+}

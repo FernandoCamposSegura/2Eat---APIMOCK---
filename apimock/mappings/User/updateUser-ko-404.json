@@ -1,0 +1,13 @@
+{
+    "request": {
+      "method": "PUT",
+      "urlPattern": "/users/3"
+    },
+    "response": {
+      "status": 404,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFileName": "User/updateUser-ko-404.json"
+    }
+}
